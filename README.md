@@ -10,4 +10,4 @@ Este proyecto contiene la implementación de métodos numéricos para la interpo
 ## 🛠️ Tecnologías utilizadas
 - *Lenguaje:* C++ / Java (ajusta según el lenguaje que usaste)
 - *Entorno de desarrollo:* IntelliJ IDEA / CLion / VS Code
-# InterpolacionNumerica
+
